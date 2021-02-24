@@ -1,0 +1,6 @@
+name: InfiniteStructures
+version: 1.0
+author: KaiNakamura
+main: com.github.infinitestructures.InfiniteStructures
+api-version: 1.16
+load: STARTUP
