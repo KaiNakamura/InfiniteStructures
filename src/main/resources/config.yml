@@ -1,60 +1,60 @@
 village:
-  spacing:
-  separation:
+  spacing: 2
+  separation: 1
   salt:
 desert-pyramid:
-  spacing:
-  separation:
+  spacing: 2
+  separation: 1
   salt:
 igloo:
-  spacing:
-  separation:
+  spacing: 2
+  separation: 1
   salt:
 jungle-pyramid:
-  spacing:
-  separation:
+  spacing: 2
+  separation: 1
   salt:
 swamp-hut:
-  spacing:
-  separation:
+  spacing: 2
+  separation: 1
   salt:
 pillager-outpost:
-  spacing:
-  separation:
+  spacing: 2
+  separation: 1
   salt:
 monument:
-  spacing:
-  separation:
+  spacing: 2
+  separation: 1
   salt:
 endcity:
-  spacing:
-  separation:
+  spacing: 2
+  separation: 1
   salt:
 mansion:
-  spacing:
-  separation:
+  spacing: 2
+  separation: 1
   salt:
 ruined-portal:
-  spacing:
-  separation:
+  spacing: 2
+  separation: 1
   salt:
 shipwreck:
-  spacing:
-  separation:
+  spacing: 2
+  separation: 1
   salt:
 ocean-ruin:
-  spacing:
-  separation:
+  spacing: 2
+  separation: 1
   salt:
 bastion-remnant:
-  spacing:
-  separation:
+  spacing: 2
+  separation: 1
   salt:
 fortress:
-  spacing:
-  separation:
+  spacing: 2
+  separation: 1
   salt:
 nether-fossil:
-  spacing:
-  separation:
+  spacing: 2
+  separation: 1
   salt:
